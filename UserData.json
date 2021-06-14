@@ -1,0 +1,20 @@
+[
+    {
+        "id":1001,
+        "name":"Manish",
+        "city":"Bengaluru"
+        "Languages": ["Hindi","Kannada", "English"]
+    },
+    {
+        "id":1002,
+        "name":"Jack",
+        "city":"Pune"
+        "Languages": ["Marathi", "English"]
+    },
+    {
+        "id":1003,
+        "name":"Sam",
+        "city":"Mumbai"
+        "Languages": ["Hindi", "English"]
+    },
+]
